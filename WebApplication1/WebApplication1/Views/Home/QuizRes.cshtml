@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "QuizRes";
+    int num = 1;
+}
+<h2>Quiz results</h2>
+<h3> Right answers @ViewBag.RightAnswersCount out @ViewBag.AnswersCount</h3>
+
+@foreach (string result in ViewBag.Results)
+{
+    <p>@(num++). @result</p>
+}

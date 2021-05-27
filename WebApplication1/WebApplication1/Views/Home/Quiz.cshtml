@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Quiz";
+}
+<h2>Quiz</h2>
+<form method="post" >
+    <div>
+        <input name="answerH" style="display:none" value="@ViewBag.Answer" />
+        <input name="expressionH" style="display:none" value="@ViewBag.Value" />
+        <p>@ViewBag.Value =</p>
+    </div>
+    <div>
+        <input name="answer"  style= " width:300px; margin:10px; " />
+    </div>
+
+    <div>
+        <input name="next" type="submit" formaction="~/Home/QuizNext" value="Next" class="btn btn-secondary" />
+        <input name="finish" type="submit" formaction="~/Home/QuizFinish" value="Finish" class="btn btn-primary" />
+    </div>
+
+</form>

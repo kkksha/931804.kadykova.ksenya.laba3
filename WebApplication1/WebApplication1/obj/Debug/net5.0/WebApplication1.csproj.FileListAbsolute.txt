@@ -1,0 +1,123 @@
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Quiz.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\QuizResult.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Quiz.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\QuizResult.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Ryaba\Desktop\учеба 3 курс\wbe 3\Web-Quize\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Quiz.cshtml.g.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\QuizRes.cshtml.g.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Ksusha K\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
